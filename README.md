@@ -40,6 +40,10 @@ int main()
     }
 }
 
+
+
+
+
 void push()
 {
     int x;
@@ -57,6 +61,8 @@ void push()
     }
 }
 
+
+
 void pop()
 {
     if (top == -1)
@@ -69,6 +75,8 @@ void pop()
         top = top - 1;
     }
 }
+
+
 
 void display()
 {
